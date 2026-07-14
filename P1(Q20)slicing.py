@@ -8,7 +8,6 @@ songs = [
     "Song D",
     "Song E"
 ]
-
 up_next = songs[1:4]
 
 print("Up Next:", up_next)
